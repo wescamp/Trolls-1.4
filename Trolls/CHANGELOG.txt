@@ -1,0 +1,81 @@
+0.0.5
+
+A special music playlist with 5 songs.
+
+Scenario 1:
+
+-Äg Äg is now loyal and has hero overlay
+-Some dialog fixes.
+
+Scenario 2:
+
+-"The party travels further to the cave seeing no dwarves. Finally they hear a sound of dwarvish hammers..." –> "The party traveled into the cave and found no dwarves. However finally they hear the sound of dwarvish hammers ..."
+-Bats are in their own team now.
+-There is a time limit now (27 turns)
+-variables will be cleared now...
+-some dialog fixes
+
+
+
+
+
+0.0.4
+
+-Changed a stupid bug in id...
+-Ug has now hero overlay
+
+
+
+
+0.0.3
+
+First version of second scenario
+
+Scenario 1:
+
+-Ug's villages will now transfer to player 1 when Ug's units change side.
+-Objectives now tell that death of Ug means losing game.
+-Moved the other Tentacle closer to the bridge.
+-Some more dialog which tells that Orcs and Poacher are mercenaries
+
+
+
+
+
+
+0.0.2
+
+-added 2 more units: level 1 Rocklobber and level 1 Troll Shaman
+
+Scenario 1:
+
+-Added CHANGELOG.txt to the scenario folder
+-Time of day is now underground instead of default schedule.
+-Eag is now Whelp Shaman and 2 villages are Rockthrowers instead of Troll Whelps. 
+-One of Ug's trolls is now Rockthrower
+-Ug has now 3 mercenaries: Orcish Assassin, Orcish Archer and Poacher.
+-Player loses when Ug dies.
+-Enemy has now 60, 85 of 120 gold depending on the difficulty instead of 60, 60 and 80 gold
+-One of the Dwarvish Fighter guard is now Steelclad on hard difficulty.
+-The Dwarvish Miner, in the victory event, now arrives to the dwarf castle instead of troll village.
+-Moved the Tentacles nearer to the bridge.
+
+0.0.1
+
+First version of first scenario.
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.0.1
+
+First version of the first scenario.
