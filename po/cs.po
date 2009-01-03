@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-01-03 03:20+0100\n"
+"PO-Revision-Date: 2009-01-03 03:20+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. [scenario]: id=01_Dwarvish_Miners
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:5
+msgid "Dwarvish Miners"
+msgstr ""
+
+#. [part]
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:21
+msgid ""
+"You are Eag, the leader of a troll tribe, who lives in a peaceful troll "
+"village built in the end of a deep cave. The troll people living there have "
+"not seen light for ages ... and have met only other trolls living in the "
+"near village..."
+msgstr ""
+
+#. [side]: type=Whelp Shaman, description=Eag
+#. [side]
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:33
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:61
+#: Trolls/scenarios/02_The_Chase.cfg:35
+msgid "teamname^Trolls"
+msgstr ""
+
+#. [side]: type=Whelp Shaman, description=Eag
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:38
+#: Trolls/scenarios/02_The_Chase.cfg:40
+msgid "Eag The Wise"
+msgstr ""
+
+#. [side]: type=Dwarvish Stalwart, description=Elger
+#. [side]: type=Dwarvish Lord, description=Alher
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:73
+#: Trolls/scenarios/02_The_Chase.cfg:56
+msgid "teamname^Dwarves"
+msgstr ""
+
+#. [side]: type=Dwarvish Stalwart, description=Elger
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:89
+msgid "Elger"
+msgstr ""
+
+#. [objective]: condition=win
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:107
+msgid "Defeat the dwarves"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:111
+#: Trolls/scenarios/02_The_Chase.cfg:102
+msgid "Death of Aeg or Ug"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:115
+#: Trolls/scenarios/02_The_Chase.cfg:106
+msgid "Turns run out"
+msgstr ""
+
+#. [unit]: type=Troll, description=Ug The Strong
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:134
+msgid "Ug The Strong"
+msgstr ""
+
+#. [unit]: type=Troll Whelp, description=Äg Äg
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:162
+msgid "Äg Äg"
+msgstr ""
+
+#. [message]
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:169
+msgid "Dwarves has attack me home. You must help. Leaders say so! Blackrock!"
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:174
+msgid "You mean that dwarves have attacked Blackrock tribe?"
+msgstr ""
+
+#. [message]
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:178
+msgid "Yes!"
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:182
+msgid "Then we must help them."
+msgstr ""
+
+#. [message]: description=Ug The Strong
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:197
+msgid ""
+"The help has arrived. Good work, Äg Äg. I though that dwarves might attack "
+"us so I hired some mercenaries."
+msgstr ""
+
+#. [message]: type=Orcish Assassin
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:201
+msgid "We really need help now. Some dwarves are coming from their encampment."
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:218
+msgid "Your village is now a safe place again, Ug."
+msgstr ""
+
+#. [message]: description=Ug The Strong
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:222
+msgid "I afraid, it is not... Dwarves will come back soon."
+msgstr ""
+
+#. [message]: description=Miner
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:226
+msgid "Hmm... What is going on here?"
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:230
+msgid "More dwarves coming!"
+msgstr ""
+
+#. [message]: description=Miner
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:237
+msgid "Argh! Trolls! I have to warn the lord!"
+msgstr ""
+
+#. [message]: description=Ug The Strong
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:251
+msgid ""
+"Dwarvish Lord! He might be the one who commanded the dwarves to attack us... "
+"I suggest we follow that miner."
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:255
+msgid "Agreed. Let's go!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:268
+msgid "Argh! I have betrayed my tribe..."
+msgstr ""
+
+#. [message]: speaker=Äg Äg
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:272
+msgid "Nooo! You is good leaders!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:288
+msgid "Argh! This cannot be..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:304
+msgid "Nooo! Me must help Eag!"
+msgstr ""
+
+#. [scenario]: id=02_The_Chase
+#: Trolls/scenarios/02_The_Chase.cfg:5
+msgid "The Chase"
+msgstr ""
+
+#. [part]
+#: Trolls/scenarios/02_The_Chase.cfg:21
+msgid ""
+"The party traveled into the cave and found no dwarves. However finally they "
+"hear the sound of dwarvish hammers ..."
+msgstr ""
+
+#. [side]: type=Dwarvish Lord, description=Alher
+#: Trolls/scenarios/02_The_Chase.cfg:69
+msgid "Alher"
+msgstr ""
+
+#. [side]
+#: Trolls/scenarios/02_The_Chase.cfg:84
+msgid "teamname^Bats"
+msgstr ""
+
+#. [objective]: condition=win
+#: Trolls/scenarios/02_The_Chase.cfg:94
+msgid "Defeat the dwarf leader"
+msgstr ""
+
+#. [objective]: condition=win
+#: Trolls/scenarios/02_The_Chase.cfg:98
+msgid "Find a way out of cave."
+msgstr ""
+
+#. [message]: description=Ug The Strong
+#: Trolls/scenarios/02_The_Chase.cfg:149
+msgid "There are dwarves close to us. We need to be careful."
+msgstr ""
+
+#. [message]: description=Alher
+#: Trolls/scenarios/02_The_Chase.cfg:172
+msgid ""
+"I have always thought that trolls aren't as stupid as I have heard. But the "
+"fact that you attempt to attack a well-defended dwarven fortress makes me "
+"think that I have overestimated your intelligence... Uh... why am I standing "
+"in water?"
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/02_The_Chase.cfg:176
+msgid ""
+"Looks like that water is pouring through the wall. I think I have "
+"overestimated your skill to build."
+msgstr ""
+
+#. [message]: type=T Naga Fighter
+#: Trolls/scenarios/02_The_Chase.cfg:180
+msgid ""
+"Haha... Dwarves have decided to change their cave into a lake. I guess you "
+"are the one, Alher, who hired those poachers to hunt us. I am not sure what "
+"you are aiming for but I guess you want more power in this area... Finish "
+"him guys!"
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/02_The_Chase.cfg:184
+msgid "Nagas! Good to see you again. We will help you with the dwarves."
+msgstr ""
+
+#. [message]: type=T Naga Fighter
+#: Trolls/scenarios/02_The_Chase.cfg:188
+msgid "Trolls? Great to see you."
+msgstr ""
+
+#. [message]: description=Ug The Strong
+#: Trolls/scenarios/02_The_Chase.cfg:201
+msgid ""
+"The entrance is here. I think we need to activate those runes in two rooms "
+"to open the gate."
+msgstr ""
+
+#. [message]: description=Äg Äg
+#: Trolls/scenarios/02_The_Chase.cfg:205
+msgid "Yay. Me want seen the outside!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Trolls/scenarios/02_The_Chase.cfg:228 Trolls/scenarios/02_The_Chase.cfg:257
+msgid "The gates opens now!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Trolls/scenarios/02_The_Chase.cfg:274
+msgid "..."
+msgstr ""
+
+#. [message]: description=Ug The Strong
+#: Trolls/scenarios/02_The_Chase.cfg:278
+msgid "Finally that dwarf died..."
+msgstr ""
+
+#. [unit]: id=T Naga Abomination, race=naga
+#: Trolls/units/Abomination.cfg:5
+msgid "Naga Abomination"
+msgstr ""
+
+#. [unit]: id=T Naga Abomination, race=naga
+#: Trolls/units/Abomination.cfg:24
+msgid "These heavy fighters are elite forces of the nagas."
+msgstr ""
+
+#. [attack]: type=blade
+#: Trolls/units/Depthprowler.cfg:52 Trolls/units/Depthstalker.cfg:52
+#: Trolls/units/Abomination.cfg:29 Trolls/units/Hunter.cfg:42
+#: Trolls/units/Assassin.cfg:30
+msgid "sword"
+msgstr ""
+
+#. [attack]: type=impact
+#: Trolls/units/Sentinel.cfg:29 Trolls/units/Warden.cfg:28
+#: Trolls/units/Abomination.cfg:38
+msgid "mace"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Trolls/units/Abomination.cfg:46
+msgid "spear"
+msgstr ""
+
+#. [unit]: id=T Naga Assassin, race=naga
+#: Trolls/units/Assassin.cfg:5
+msgid "Naga Assassin"
+msgstr ""
+
+#. [unit]: id=T Naga Hunter, race=naga
+#. [unit]: id=T Naga Assassin, race=naga
+#: Trolls/units/Hunter.cfg:19 Trolls/units/Assassin.cfg:21
+msgid ""
+"Naga Hunters are Naga who are skilled at hunting with a bow. Since the naga "
+"are naturally resistant to poison, they have no qualms about hunting with "
+"poisoned arrows. These two foot long shafts, tipped with a potent poison, "
+"have been known to slay many kinds of prey."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Trolls/units/Hunter.cfg:51 Trolls/units/Assassin.cfg:39
+msgid "bow"
+msgstr ""
+
+#. [unit]: id=T Naga Depthprowler, race=naga
+#: Trolls/units/Depthprowler.cfg:5
+msgid "Naga Depthprowler"
+msgstr ""
+
+#. [unit]: id=T Naga Depthprowler, race=naga
+#. [unit]: id=T Naga Depthstalker, race=naga
+#: Trolls/units/Depthprowler.cfg:21 Trolls/units/Depthstalker.cfg:21
+msgid ""
+"Some nagas, whether through cowardice or cunning, develop a knack for "
+"surviving in darker depths of the water. After special training, this "
+"knowledge can develop into an entirely different branch of combat, although "
+"it is just as deadly. Naga Depthstalkers are especially valued as brood "
+"guardians, where they keep watch over eggs laid in hidden caves."
+msgstr ""
+
+#. [female]
+#: Trolls/units/Depthprowler.cfg:178
+msgid "Nagini Depthprowler"
+msgstr ""
+
+#. [female]
+#: Trolls/units/Depthprowler.cfg:181 Trolls/units/Depthstalker.cfg:181
+msgid ""
+"Some naganis, whether through cowardice or cunning, develop a knack for "
+"surviving in darker depths of the water. After special training, this "
+"knowledge can develop into an entirely different branch of combat, although "
+"it is just as deadly. Nagani Depthstalkers are especially valued as brood "
+"guardians, where they keep watch over eggs laid in hidden caves."
+msgstr ""
+
+#. [unit]: id=T Naga Depthstalker, race=naga
+#: Trolls/units/Depthstalker.cfg:5
+msgid "Naga Depthstalker"
+msgstr ""
+
+#. [female]
+#: Trolls/units/Depthstalker.cfg:178
+msgid "Nagini Depthstalker"
+msgstr ""
+
+#. [unit]: id=T Dwarvish Miner, race=dwarf
+#: Trolls/units/Dwarvish_Miner.cfg:4
+msgid "Dwarvish Miner"
+msgstr ""
+
+#. [unit]: id=T Dwarvish Miner, race=dwarf
+#: Trolls/units/Dwarvish_Miner.cfg:17
+msgid ""
+"Dwarvish miners are the grunt workers of Dwarvish society. They take the "
+"precious ores out of the ground, but do not ever take part in the crafting "
+"of weapons or artifacts."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Trolls/units/Dwarvish_Miner.cfg:22
+msgid "pick"
+msgstr ""
+
+#. [unit]: id=T Naga Hunter, race=naga
+#: Trolls/units/Hunter.cfg:5
+msgid "Naga Hunter"
+msgstr ""
+
+#. [unit]: id=T Old Orcish Shaman, race=orc
+#: Trolls/units/Old_Orc_Shaman.cfg:4
+msgid "Old Orcish Shaman"
+msgstr ""
+
+#. [unit]: id=T Old Orcish Shaman, race=orc
+#: Trolls/units/Old_Orc_Shaman.cfg:22
+msgid ""
+"Orcish Shamans are the guardians of orcish magic. Respected among orcish "
+"tribes, they form the Orcish Council, which makes important decisions for "
+"the whole Orcish community and arbitrates the many conflicts that arise "
+"between tribes of this argumentative race. Although physically weak (for "
+"Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
+"draining their life. Old Orcish Shamans are shamans that have mastered "
+"magic, although their physical strength has declined with age."
+msgstr ""
+
+#. [attack]: type=impact
+#: Trolls/units/Orc_Shaman.cfg:25 Trolls/units/Old_Orc_Shaman.cfg:27
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Trolls/units/Orc_Shaman.cfg:34 Trolls/units/Old_Orc_Shaman.cfg:36
+msgid "curse"
+msgstr ""
+
+#. [unit]: id=T Orcish Shaman, race=orc
+#: Trolls/units/Orc_Shaman.cfg:4
+msgid "Orcish Shaman"
+msgstr ""
+
+#. [unit]: id=T Orcish Shaman, race=orc
+#: Trolls/units/Orc_Shaman.cfg:20
+msgid ""
+"Orcish Shamans are the guardians of orcish magic. Respected among orcish "
+"tribes, they form the Orcish Council, which makes important decisions for "
+"the whole Orcish community and arbitrates the many conflicts that arise "
+"between tribes of this argumentative race. Although physically weak (for "
+"Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
+"draining their life."
+msgstr ""
+
+#. [unit]: id=T Naga Sentinel, race=naga
+#: Trolls/units/Sentinel.cfg:5
+msgid "Naga Sentinel"
+msgstr ""
+
+#. [unit]: id=T Naga Sentinel, race=naga
+#: Trolls/units/Sentinel.cfg:24
+msgid ""
+"These heavy fighters are elite guards of the naga, choosen by their "
+"dedication and skill, their purpose is to defend their sleeping brethen from "
+"any menace or guarding their hidden cities from outside invasors until the "
+"great awake of their civilization arrive. These nagas are mostly unknow in "
+"Wesnoth since they can only be found near Naga cities."
+msgstr ""
+
+#. [unit]: id=T Naga Warden, race=naga
+#: Trolls/units/Warden.cfg:5
+msgid "Naga Warden"
+msgstr ""
+
+#. [unit]: id=T Naga Warden, race=naga
+#: Trolls/units/Warden.cfg:23
+msgid ""
+"These heavy fighters are the elite guards of the naga. They are slower and "
+"more heavily armored than most naga and wield huge maces which they use to "
+"crush their enemies. They mostly guard naga outposts, but occasionally "
+"participate in offensive raids."
+msgstr ""
