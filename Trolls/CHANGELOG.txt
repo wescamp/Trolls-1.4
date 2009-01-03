@@ -1,6 +1,51 @@
+0.0.7
+
+Basic sprite for level 2 Äg Äg...
+Better Shaman sprites from SVN
+
+Scenario 4:
+
+Fixed a bug which caused to win the scenario at start.
+
+
+
+
+
+0.0.6
+
+Improved the description in pbl file.
+All scenarios has now larger amount minimum starting gold...
+Two new units: Black Assassin and Black Slayer (Assassin has custom art)
+
+Scenario 1:
+
+Äg Äg has now loyal trait.
+
+Scenario 2:
+
+Player must now kill the dwarf and open the gate in order to win.
+Placed a non-moving Grunt into the right place instead of middle of the lake -.-
+Orc leader is now Slurbow on normal and hard difficulty.
+
+Scenario 3:
+
+Adjusted the enemies starting gold
+
+Scenario 4:
+
+First version
+
+
+
+
+
+
+
+
 0.0.5
 
 A special music playlist with 5 songs.
+Campaign is translatable.
 
 Scenario 1:
 
@@ -15,6 +60,9 @@ Scenario 2:
 -variables will be cleared now...
 -some dialog fixes
 
+Scenario 3:
+
+First version
 
 
 
