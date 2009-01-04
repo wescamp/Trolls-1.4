@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-01-03 03:20+0100\n"
+"POT-Creation-Date: 2009-01-04 03:03+0100\n"
 "PO-Revision-Date: 2009-01-03 03:20+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -11,6 +11,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
+
+#. [campaign]: id=Trolls
+#: Trolls/_main.cfg:15
+msgid "Trolls!"
+msgstr ""
+
+#. [campaign]: id=Trolls
+#: Trolls/_main.cfg:16
+msgid "T!"
+msgstr ""
+
+#. [campaign]: id=Trolls
+#: Trolls/_main.cfg:20
+msgid "Whelp"
+msgstr ""
+
+#. [campaign]: id=Trolls
+#: Trolls/_main.cfg:20
+msgid "(Beginner)"
+msgstr ""
+
+#. [campaign]: id=Trolls
+#: Trolls/_main.cfg:22
+msgid "Troll"
+msgstr ""
+
+#. [campaign]: id=Trolls
+#: Trolls/_main.cfg:22
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=Trolls
+#: Trolls/_main.cfg:24
+msgid "Warrior"
+msgstr ""
+
+#. [campaign]: id=Trolls
+#: Trolls/_main.cfg:24
+msgid "(Challenging)"
+msgstr ""
+
+#. [campaign]: id=Trolls
+#: Trolls/_main.cfg:26
+msgid ""
+"You are Eag, the leader of a troll tribe, who lives in a peaceful cave "
+"farming mushrooms for food. However a scout brings you bad news : dwarves "
+"are attempting to mine gold and other valuable minerals in the cave. They "
+"have attacked another tribe that is near you. Hearing the news you lead your "
+"fighters to help."
+msgstr ""
 
 #. [scenario]: id=01_Dwarvish_Miners
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:5
@@ -30,20 +80,22 @@ msgstr ""
 #. [side]
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:33
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:61
-#: Trolls/scenarios/02_The_Chase.cfg:35
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:32
+#: Trolls/scenarios/02_The_Chase.cfg:36 Trolls/scenarios/03_Old_Friend.cfg:23
 msgid "teamname^Trolls"
 msgstr ""
 
 #. [side]: type=Whelp Shaman, description=Eag
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:38
-#: Trolls/scenarios/02_The_Chase.cfg:40
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:37
+#: Trolls/scenarios/02_The_Chase.cfg:41 Trolls/scenarios/03_Old_Friend.cfg:28
 msgid "Eag The Wise"
 msgstr ""
 
 #. [side]: type=Dwarvish Stalwart, description=Elger
 #. [side]: type=Dwarvish Lord, description=Alher
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:73
-#: Trolls/scenarios/02_The_Chase.cfg:56
+#: Trolls/scenarios/02_The_Chase.cfg:57
 msgid "teamname^Dwarves"
 msgstr ""
 
@@ -59,13 +111,14 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:111
-#: Trolls/scenarios/02_The_Chase.cfg:102
+#: Trolls/scenarios/02_The_Chase.cfg:103
 msgid "Death of Aeg or Ug"
 msgstr ""
 
 #. [objective]: condition=lose
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:115
-#: Trolls/scenarios/02_The_Chase.cfg:106
+#: Trolls/scenarios/02_The_Chase.cfg:107
+#: Trolls/scenarios/03_Old_Friend.cfg:107
 msgid "Turns run out"
 msgstr ""
 
@@ -80,91 +133,91 @@ msgid "Äg Äg"
 msgstr ""
 
 #. [message]
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:169
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:172
 msgid "Dwarves has attack me home. You must help. Leaders say so! Blackrock!"
 msgstr ""
 
 #. [message]: description=Eag
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:174
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:177
 msgid "You mean that dwarves have attacked Blackrock tribe?"
 msgstr ""
 
 #. [message]
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:178
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:181
 msgid "Yes!"
 msgstr ""
 
 #. [message]: description=Eag
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:182
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:185
 msgid "Then we must help them."
 msgstr ""
 
 #. [message]: description=Ug The Strong
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:197
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:200
 msgid ""
 "The help has arrived. Good work, Äg Äg. I though that dwarves might attack "
 "us so I hired some mercenaries."
 msgstr ""
 
 #. [message]: type=Orcish Assassin
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:201
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:204
 msgid "We really need help now. Some dwarves are coming from their encampment."
 msgstr ""
 
 #. [message]: description=Eag
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:218
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:221
 msgid "Your village is now a safe place again, Ug."
 msgstr ""
 
 #. [message]: description=Ug The Strong
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:222
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:225
 msgid "I afraid, it is not... Dwarves will come back soon."
 msgstr ""
 
 #. [message]: description=Miner
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:226
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:229
 msgid "Hmm... What is going on here?"
 msgstr ""
 
 #. [message]: description=Eag
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:230
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:233
 msgid "More dwarves coming!"
 msgstr ""
 
 #. [message]: description=Miner
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:237
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:240
 msgid "Argh! Trolls! I have to warn the lord!"
 msgstr ""
 
 #. [message]: description=Ug The Strong
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:251
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:254
 msgid ""
 "Dwarvish Lord! He might be the one who commanded the dwarves to attack us... "
 "I suggest we follow that miner."
 msgstr ""
 
 #. [message]: description=Eag
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:255
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:258
 msgid "Agreed. Let's go!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:268
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:271
 msgid "Argh! I have betrayed my tribe..."
 msgstr ""
 
 #. [message]: speaker=Äg Äg
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:272
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:275
 msgid "Nooo! You is good leaders!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:288
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:291
 msgid "Argh! This cannot be..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Trolls/scenarios/01_Dwarvish_Miners.cfg:304
+#: Trolls/scenarios/01_Dwarvish_Miners.cfg:307
 msgid "Nooo! Me must help Eag!"
 msgstr ""
 
@@ -174,39 +227,39 @@ msgid "The Chase"
 msgstr ""
 
 #. [part]
-#: Trolls/scenarios/02_The_Chase.cfg:21
+#: Trolls/scenarios/02_The_Chase.cfg:22
 msgid ""
 "The party traveled into the cave and found no dwarves. However finally they "
 "hear the sound of dwarvish hammers ..."
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, description=Alher
-#: Trolls/scenarios/02_The_Chase.cfg:69
+#: Trolls/scenarios/02_The_Chase.cfg:70
 msgid "Alher"
 msgstr ""
 
 #. [side]
-#: Trolls/scenarios/02_The_Chase.cfg:84
+#: Trolls/scenarios/02_The_Chase.cfg:85
 msgid "teamname^Bats"
 msgstr ""
 
 #. [objective]: condition=win
-#: Trolls/scenarios/02_The_Chase.cfg:94
+#: Trolls/scenarios/02_The_Chase.cfg:95
 msgid "Defeat the dwarf leader"
 msgstr ""
 
 #. [objective]: condition=win
-#: Trolls/scenarios/02_The_Chase.cfg:98
+#: Trolls/scenarios/02_The_Chase.cfg:99
 msgid "Find a way out of cave."
 msgstr ""
 
 #. [message]: description=Ug The Strong
-#: Trolls/scenarios/02_The_Chase.cfg:149
+#: Trolls/scenarios/02_The_Chase.cfg:150
 msgid "There are dwarves close to us. We need to be careful."
 msgstr ""
 
 #. [message]: description=Alher
-#: Trolls/scenarios/02_The_Chase.cfg:172
+#: Trolls/scenarios/02_The_Chase.cfg:173
 msgid ""
 "I have always thought that trolls aren't as stupid as I have heard. But the "
 "fact that you attempt to attack a well-defended dwarven fortress makes me "
@@ -215,14 +268,14 @@ msgid ""
 msgstr ""
 
 #. [message]: description=Eag
-#: Trolls/scenarios/02_The_Chase.cfg:176
+#: Trolls/scenarios/02_The_Chase.cfg:177
 msgid ""
 "Looks like that water is pouring through the wall. I think I have "
 "overestimated your skill to build."
 msgstr ""
 
 #. [message]: type=T Naga Fighter
-#: Trolls/scenarios/02_The_Chase.cfg:180
+#: Trolls/scenarios/02_The_Chase.cfg:181
 msgid ""
 "Haha... Dwarves have decided to change their cave into a lake. I guess you "
 "are the one, Alher, who hired those poachers to hunt us. I am not sure what "
@@ -231,40 +284,201 @@ msgid ""
 msgstr ""
 
 #. [message]: description=Eag
-#: Trolls/scenarios/02_The_Chase.cfg:184
+#: Trolls/scenarios/02_The_Chase.cfg:185
 msgid "Nagas! Good to see you again. We will help you with the dwarves."
 msgstr ""
 
 #. [message]: type=T Naga Fighter
-#: Trolls/scenarios/02_The_Chase.cfg:188
+#: Trolls/scenarios/02_The_Chase.cfg:189
 msgid "Trolls? Great to see you."
 msgstr ""
 
 #. [message]: description=Ug The Strong
-#: Trolls/scenarios/02_The_Chase.cfg:201
+#: Trolls/scenarios/02_The_Chase.cfg:202
 msgid ""
 "The entrance is here. I think we need to activate those runes in two rooms "
 "to open the gate."
 msgstr ""
 
 #. [message]: description=Äg Äg
-#: Trolls/scenarios/02_The_Chase.cfg:205
+#: Trolls/scenarios/02_The_Chase.cfg:206
 msgid "Yay. Me want seen the outside!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Trolls/scenarios/02_The_Chase.cfg:228 Trolls/scenarios/02_The_Chase.cfg:257
+#: Trolls/scenarios/02_The_Chase.cfg:236 Trolls/scenarios/02_The_Chase.cfg:246
+#: Trolls/scenarios/02_The_Chase.cfg:285 Trolls/scenarios/02_The_Chase.cfg:295
 msgid "The gates opens now!"
 msgstr ""
 
+#. [message]: description=Eag
+#: Trolls/scenarios/02_The_Chase.cfg:250 Trolls/scenarios/02_The_Chase.cfg:299
+msgid "We still have to kill that dwarf. He is too dangerous to be left alive!"
+msgstr ""
+
 #. [message]: speaker=unit
-#: Trolls/scenarios/02_The_Chase.cfg:274
+#: Trolls/scenarios/02_The_Chase.cfg:315
 msgid "..."
 msgstr ""
 
 #. [message]: description=Ug The Strong
-#: Trolls/scenarios/02_The_Chase.cfg:278
+#: Trolls/scenarios/02_The_Chase.cfg:319
 msgid "Finally that dwarf died..."
+msgstr ""
+
+#. [message]: description=Ug The Strong
+#: Trolls/scenarios/02_The_Chase.cfg:336
+msgid "Let's find a way out from this cave... We can't stay here anymore."
+msgstr ""
+
+#. [scenario]: id=03_Old_Friend
+#: Trolls/scenarios/03_Old_Friend.cfg:4
+msgid "Old Friend"
+msgstr ""
+
+#. [side]: type=Orcish Crossbowman, type=Orcish Slurbow, description=Rak
+#. [side]: type=Dark Sorcerer, description=Galin
+#: Trolls/scenarios/03_Old_Friend.cfg:42 Trolls/scenarios/03_Old_Friend.cfg:70
+msgid "teamname^Enemy"
+msgstr ""
+
+#. [side]: type=Orcish Crossbowman, type=Orcish Slurbow, description=Rak
+#: Trolls/scenarios/03_Old_Friend.cfg:60
+msgid "Rak'Guruk"
+msgstr ""
+
+#. [side]: type=Dark Sorcerer, description=Galin
+#: Trolls/scenarios/03_Old_Friend.cfg:84
+msgid "Galin"
+msgstr ""
+
+#. [objective]: condition=win
+#: Trolls/scenarios/03_Old_Friend.cfg:95
+msgid "Defeat enemy leaders"
+msgstr ""
+
+#. [objective]: condition=win
+#: Trolls/scenarios/03_Old_Friend.cfg:99
+msgid "Move Karak out of the cave."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:75
+#: Trolls/scenarios/03_Old_Friend.cfg:103
+msgid "Death of Aeg, Ug or Karak"
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/03_Old_Friend.cfg:165
+msgid ""
+"There is an orcish encampment near us. I suggest we try to sneak past it as "
+"I don't want to lose any more men. When we are far away from the dwarves, we "
+"have to find a new cave in which to live."
+msgstr ""
+
+#. [message]: description=Ug The Strong
+#: Trolls/scenarios/03_Old_Friend.cfg:169
+msgid ""
+"I know one friendly orcish tribe which isn't warlike like other tribes. They "
+"also have a cave near their encampment for trolls."
+msgstr ""
+
+#. [message]: description=Karak
+#: Trolls/scenarios/03_Old_Friend.cfg:173
+msgid ""
+"~Luckily I found you Eag. Can you help me? An orcish leader has kidnapped us "
+"and throw us into a dark cave which seems to be full of bats..."
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/03_Old_Friend.cfg:177
+msgid "~Karak? Why are you talking in my head?"
+msgstr ""
+
+#. [message]: description=Karak
+#: Trolls/scenarios/03_Old_Friend.cfg:181
+msgid ""
+"~It is a shaman thing, you know Please, come to help me and my friends I "
+"will make up this some day"
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/03_Old_Friend.cfg:185
+msgid "~We will help you, don't worry."
+msgstr ""
+
+#. [message]: description=Eag
+#: Trolls/scenarios/03_Old_Friend.cfg:189
+msgid ""
+"We have to change our plan now... We must attack the orcs. Let me explain..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Trolls/scenarios/03_Old_Friend.cfg:200
+msgid "No! No one can defeat me!"
+msgstr ""
+
+#. [message]: description=Galin
+#: Trolls/scenarios/03_Old_Friend.cfg:215
+msgid "Haha, my army is unstoppable!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Trolls/scenarios/03_Old_Friend.cfg:226
+msgid "Uh, you have won... I died against a good enemy..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Trolls/scenarios/03_Old_Friend.cfg:250
+msgid "I finally got out of there."
+msgstr ""
+
+#. [scenario]: id=04_Night_Of_Daggers
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:4
+msgid "Night of Daggers"
+msgstr ""
+
+#. [time]: id=dark_night
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:9
+msgid "A Long Dark Night"
+msgstr ""
+
+#. [side]
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:50
+msgid "teamname^Black Assassins"
+msgstr ""
+
+#. [part]
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:57
+msgid ""
+"Eag and his company travelled to an encampment of a peaceful tribe. They "
+"noticed that the tribe has a new leader. Eag has his doubts about the new "
+"commander, but they decide to stay the night. The night was cold and darker "
+"than it was normally. At midnight they heard someone screaming."
+msgstr ""
+
+#. [objective]: condition=win
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:67
+msgid "Survive 20 turns"
+msgstr ""
+
+#. [objective]: condition=win
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:71
+msgid "Death of all enemies"
+msgstr ""
+
+#. [message]: description=Ar'Harak
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:106
+msgid ""
+"Black Assassins are attacking us! Kill them all and in the morning we will "
+"revenge this coward attack!"
+msgstr ""
+
+#. [message]: description=Karak
+#: Trolls/scenarios/04_Night_Of_Daggers.cfg:123
+msgid ""
+"Night has finally ended and black assassins can't hide in the darkness "
+"anymore. Victory will be ours!"
 msgstr ""
 
 #. [unit]: id=T Naga Abomination, race=naga
@@ -313,6 +527,44 @@ msgstr ""
 #. [attack]: type=pierce
 #: Trolls/units/Hunter.cfg:51 Trolls/units/Assassin.cfg:39
 msgid "bow"
+msgstr ""
+
+#. [unit]: id=Black Assassin, race=orc
+#: Trolls/units/Black_Assassin.cfg:4
+msgid "Black Assassin"
+msgstr ""
+
+#. [unit]: id=Black Assassin, race=orc
+#: Trolls/units/Black_Assassin.cfg:22
+msgid ""
+"Some Orcish Assassins have decided to wear black and lightweight suits so "
+"that they will be unseen in darkness and can move faster around. They can "
+"sneak behind and accurately backstab their enemies or throw poison knives."
+msgstr ""
+
+#. [attack]: type=blade
+#: Trolls/units/Black_Slayer.cfg:30 Trolls/units/Black_Assassin.cfg:31
+msgid "dagger"
+msgstr ""
+
+#. [attack]: type=blade
+#: Trolls/units/Black_Slayer.cfg:43 Trolls/units/Black_Assassin.cfg:44
+msgid "throwing knives"
+msgstr ""
+
+#. [unit]: id=Black Slayer, race=orc
+#: Trolls/units/Black_Slayer.cfg:4
+msgid "Black Slayer"
+msgstr ""
+
+#. [unit]: id=Black Slayer, race=orc
+#: Trolls/units/Black_Slayer.cfg:22
+msgid ""
+"The larger or more skilled orcish assassins are called 'Slayers' by their "
+"enemies. Slayers are fast on their feet, and quite nimble in combat, "
+"although they achieve that end by forgoing armor. Their weapon of choice, "
+"poison, is a vicious tool, and its common use on the battlefield is often "
+"the real cause of orcish supremacy."
 msgstr ""
 
 #. [unit]: id=T Naga Depthprowler, race=naga
@@ -437,6 +689,29 @@ msgid ""
 "Wesnoth since they can only be found near Naga cities."
 msgstr ""
 
+#. [unit]: id=T Troll Shaman, race=troll
+#: Trolls/units/Shaman.cfg:4
+msgid "Troll Shaman"
+msgstr ""
+
+#. [unit]: id=T Troll Shaman, race=troll
+#: Trolls/units/Shaman.cfg:25
+msgid ""
+"Troll shamans are the mystical leaders of the trolls. Though not as strong "
+"or tough as other trolls, their true power lies in their fire magic, which "
+"they use to blast enemies with gouts of fire."
+msgstr ""
+
+#. [attack]: type=impact
+#: Trolls/units/Whelp_Shaman.cfg:26 Trolls/units/Shaman.cfg:32
+msgid "fist"
+msgstr ""
+
+#. [attack]: type=fire
+#: Trolls/units/Whelp_Shaman.cfg:35 Trolls/units/Shaman.cfg:42
+msgid "flame blast"
+msgstr ""
+
 #. [unit]: id=T Naga Warden, race=naga
 #: Trolls/units/Warden.cfg:5
 msgid "Naga Warden"
@@ -449,4 +724,19 @@ msgid ""
 "more heavily armored than most naga and wield huge maces which they use to "
 "crush their enemies. They mostly guard naga outposts, but occasionally "
 "participate in offensive raids."
+msgstr ""
+
+#. [unit]: id=Whelp Shaman, race=troll
+#: Trolls/units/Whelp_Shaman.cfg:4
+msgid "Whelp Shaman"
+msgstr ""
+
+#. [unit]: id=Whelp Shaman, race=troll
+#: Trolls/units/Whelp_Shaman.cfg:19
+msgid ""
+"Describing a troll as a whelp is something of an oxymoron, given that their "
+"bodies are already much hardier than that of a grown man. They are clumsy "
+"and not yet capable of walking properly, forced instead to shamble about on "
+"all fours, but any difficulty this causes them is more than made up for by "
+"the raw strength of their race."
 msgstr ""
