@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-01-04 03:03+0100\n"
-"PO-Revision-Date: 2009-01-03 03:20+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2009-01-15 20:18+0100\n"
+"Last-Translator: Stanislav Hoferek <shoferek@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,42 +14,42 @@ msgstr ""
 #. [campaign]: id=Trolls
 #: Trolls/_main.cfg:15
 msgid "Trolls!"
-msgstr ""
+msgstr "Trolovia!"
 
 #. [campaign]: id=Trolls
 #: Trolls/_main.cfg:16
 msgid "T!"
-msgstr ""
+msgstr "T!"
 
 #. [campaign]: id=Trolls
 #: Trolls/_main.cfg:20
 msgid "Whelp"
-msgstr ""
+msgstr "Mláďa"
 
 #. [campaign]: id=Trolls
 #: Trolls/_main.cfg:20
 msgid "(Beginner)"
-msgstr ""
+msgstr "(Ľahká)"
 
 #. [campaign]: id=Trolls
 #: Trolls/_main.cfg:22
 msgid "Troll"
-msgstr ""
+msgstr "Trol"
 
 #. [campaign]: id=Trolls
 #: Trolls/_main.cfg:22
 msgid "(Normal)"
-msgstr ""
+msgstr "(Normálna)"
 
 #. [campaign]: id=Trolls
 #: Trolls/_main.cfg:24
 msgid "Warrior"
-msgstr ""
+msgstr "Bojovník"
 
 #. [campaign]: id=Trolls
 #: Trolls/_main.cfg:24
 msgid "(Challenging)"
-msgstr ""
+msgstr "(Ťažká)"
 
 #. [campaign]: id=Trolls
 #: Trolls/_main.cfg:26
@@ -60,11 +60,16 @@ msgid ""
 "have attacked another tribe that is near you. Hearing the news you lead your "
 "fighters to help."
 msgstr ""
+"Si Eag, vodca trolieho kmeňa, ktorý žije v jaskyni. Je to mierumilovný kmeň, "
+"ktorý pestuje muchotrávky. Nedávno však prieskumník priniesol zlé správy: "
+"trpaslíci prišli hľadať zlato a ďalšie hodnotné suroviny do tejto jaskyne. "
+"Napadli neďaleký kmeň trolov. Ty, vodca trolov, si dal pokyn na pochod - "
+"pomôcť napadnutým trolom."
 
 #. [scenario]: id=01_Dwarvish_Miners
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:5
 msgid "Dwarvish Miners"
-msgstr ""
+msgstr "Trpasličí baníci"
 
 #. [part]
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:21
@@ -74,6 +79,9 @@ msgid ""
 "not seen light for ages ... and have met only other trolls living in the "
 "near village..."
 msgstr ""
+"Si Eag, vodca trolieho kmeňa, ktorý žije v jaskyni. Už roky nevideli "
+"trolovia pod tvojim vedením slnečné svetlo, a nestretávali sa s nikým s "
+"výnimkou trolov z neďalekej jaskyne..."
 
 #. [side]: type=Whelp Shaman, description=Eag
 #. [side]
@@ -82,74 +90,74 @@ msgstr ""
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:32
 #: Trolls/scenarios/02_The_Chase.cfg:36 Trolls/scenarios/03_Old_Friend.cfg:23
 msgid "teamname^Trolls"
-msgstr ""
+msgstr "Trolovia"
 
 #. [side]: type=Whelp Shaman, description=Eag
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:38
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:37
 #: Trolls/scenarios/02_The_Chase.cfg:41 Trolls/scenarios/03_Old_Friend.cfg:28
 msgid "Eag The Wise"
-msgstr ""
+msgstr "Eag múdry"
 
 #. [side]: type=Dwarvish Stalwart, description=Elger
 #. [side]: type=Dwarvish Lord, description=Alher
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:73
 #: Trolls/scenarios/02_The_Chase.cfg:57
 msgid "teamname^Dwarves"
-msgstr ""
+msgstr "Trpaslíci"
 
 #. [side]: type=Dwarvish Stalwart, description=Elger
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:89
 msgid "Elger"
-msgstr ""
+msgstr "Elger"
 
 #. [objective]: condition=win
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:107
 msgid "Defeat the dwarves"
-msgstr ""
+msgstr "Porazíš trpaslíkov"
 
 #. [objective]: condition=lose
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:111
 #: Trolls/scenarios/02_The_Chase.cfg:103
 msgid "Death of Aeg or Ug"
-msgstr ""
+msgstr "Zomrie Aeg alebo Ug"
 
 #. [objective]: condition=lose
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:115
 #: Trolls/scenarios/02_The_Chase.cfg:107
 #: Trolls/scenarios/03_Old_Friend.cfg:107
 msgid "Turns run out"
-msgstr ""
+msgstr "Vyprší čas"
 
 #. [unit]: type=Troll, description=Ug The Strong
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:134
 msgid "Ug The Strong"
-msgstr ""
+msgstr "Ug mocný"
 
 #. [unit]: type=Troll Whelp, description=Äg Äg
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:162
 msgid "Äg Äg"
-msgstr ""
+msgstr "Äg Äg"
 
 #. [message]
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:172
 msgid "Dwarves has attack me home. You must help. Leaders say so! Blackrock!"
-msgstr ""
+msgstr "Trpaslíci útočiť moje domov. Ty musíš prísť bojovať. Kmeň Blackrock!"
 
 #. [message]: description=Eag
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:177
 msgid "You mean that dwarves have attacked Blackrock tribe?"
-msgstr ""
+msgstr "Ty tvrdíš, že trpaslíci zaútočili na kmeň Blackrock?"
 
 #. [message]
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:181
 msgid "Yes!"
-msgstr ""
+msgstr "Áno!"
 
 #. [message]: description=Eag
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:185
 msgid "Then we must help them."
-msgstr ""
+msgstr "Potom im musíme pomôcť."
 
 #. [message]: description=Ug The Strong
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:200
@@ -157,36 +165,39 @@ msgid ""
 "The help has arrived. Good work, Äg Äg. I though that dwarves might attack "
 "us so I hired some mercenaries."
 msgstr ""
+"Pomoc dorazila. Dobrá práca, Äg Äg. Myslel som, že by na nás mohli trpaslíci "
+"priamo zaútočiť, preto som najal nejakých žoldnierov."
 
 #. [message]: type=Orcish Assassin
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:204
 msgid "We really need help now. Some dwarves are coming from their encampment."
 msgstr ""
+"Teraz naozaj potrebujeme pomoc. Niekoľko trpaslíkov prichádza z ich tábora."
 
 #. [message]: description=Eag
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:221
 msgid "Your village is now a safe place again, Ug."
-msgstr ""
+msgstr "Tvoja dedina je znovu bezpečným miestom, Ug."
 
 #. [message]: description=Ug The Strong
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:225
 msgid "I afraid, it is not... Dwarves will come back soon."
-msgstr ""
+msgstr "Bojím sa, že nie... trpaslíci sa určite vrátia."
 
 #. [message]: description=Miner
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:229
 msgid "Hmm... What is going on here?"
-msgstr ""
+msgstr "Hmmm... o čo tu ide?"
 
 #. [message]: description=Eag
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:233
 msgid "More dwarves coming!"
-msgstr ""
+msgstr "Prichádzajú ďalší pajzlovia!"
 
 #. [message]: description=Miner
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:240
 msgid "Argh! Trolls! I have to warn the lord!"
-msgstr ""
+msgstr "Argh! Trolovia! Musím varovať nášho vodcu!"
 
 #. [message]: description=Ug The Strong
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:254
@@ -194,36 +205,38 @@ msgid ""
 "Dwarvish Lord! He might be the one who commanded the dwarves to attack us... "
 "I suggest we follow that miner."
 msgstr ""
+"Vodca pajzlov? Možno on je tom, čo má na starosti všetky tie útoky... "
+"Navrhujem prenasledovať toho baníka."
 
 #. [message]: description=Eag
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:258
 msgid "Agreed. Let's go!"
-msgstr ""
+msgstr "Súhlas. Pohyb!"
 
 #. [message]: speaker=unit
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:271
 msgid "Argh! I have betrayed my tribe..."
-msgstr ""
+msgstr "Argh! Zradil som svoj kmeň..."
 
 #. [message]: speaker=Äg Äg
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:275
 msgid "Nooo! You is good leaders!"
-msgstr ""
+msgstr "Nieee! Ty byť dobrý vodca!"
 
 #. [message]: speaker=unit
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:291
 msgid "Argh! This cannot be..."
-msgstr ""
+msgstr "Argh! To nemôže byť..."
 
 #. [message]: speaker=unit
 #: Trolls/scenarios/01_Dwarvish_Miners.cfg:307
 msgid "Nooo! Me must help Eag!"
-msgstr ""
+msgstr "Ach nie! Musíme pomôcť Eagovi!"
 
 #. [scenario]: id=02_The_Chase
 #: Trolls/scenarios/02_The_Chase.cfg:5
 msgid "The Chase"
-msgstr ""
+msgstr "Naháňačka"
 
 #. [part]
 #: Trolls/scenarios/02_The_Chase.cfg:22
@@ -231,31 +244,33 @@ msgid ""
 "The party traveled into the cave and found no dwarves. However finally they "
 "hear the sound of dwarvish hammers ..."
 msgstr ""
+"Skupina sa presunula do iného konca jaskyne a našla trpaslíkov. Všade je "
+"počuť zvuk trpasličích kladív..."
 
 #. [side]: type=Dwarvish Lord, description=Alher
 #: Trolls/scenarios/02_The_Chase.cfg:70
 msgid "Alher"
-msgstr ""
+msgstr "Alher"
 
 #. [side]
 #: Trolls/scenarios/02_The_Chase.cfg:85
 msgid "teamname^Bats"
-msgstr ""
+msgstr "Netopiere"
 
 #. [objective]: condition=win
 #: Trolls/scenarios/02_The_Chase.cfg:95
 msgid "Defeat the dwarf leader"
-msgstr ""
+msgstr "Porazíš vodcu trpaslíkov"
 
 #. [objective]: condition=win
 #: Trolls/scenarios/02_The_Chase.cfg:99
 msgid "Find a way out of cave."
-msgstr ""
+msgstr "Nájdi východ z jaskyne"
 
 #. [message]: description=Ug The Strong
 #: Trolls/scenarios/02_The_Chase.cfg:150
 msgid "There are dwarves close to us. We need to be careful."
-msgstr ""
+msgstr "Nablízku sú pajzlovia. Musíme byť opatrní."
 
 #. [message]: description=Alher
 #: Trolls/scenarios/02_The_Chase.cfg:173
@@ -265,6 +280,9 @@ msgid ""
 "think that I have overestimated your intelligence... Uh... why am I standing "
 "in water?"
 msgstr ""
+"Vždy som si myslel, že trolovia nie sú až tak blbý ako sa o nich hovorí. Ale "
+"fakt, že chcú zaútočiť na tak dobre chránenú pevnosť... sú to úbohé tvory "
+"bez mozgu. A... prečo stojím vo vode?"
 
 #. [message]: description=Eag
 #: Trolls/scenarios/02_The_Chase.cfg:177
@@ -272,6 +290,8 @@ msgid ""
 "Looks like that water is pouring through the wall. I think I have "
 "overestimated your skill to build."
 msgstr ""
+"To vyzerá, že tu niekto poriadne spackal staviteľstvo. Asi by mali hrady pre "
+"trpaslíkov stavať odborníci..."
 
 #. [message]: type=T Naga Fighter
 #: Trolls/scenarios/02_The_Chase.cfg:181
@@ -281,16 +301,19 @@ msgid ""
 "you are aiming for but I guess you want more power in this area... Finish "
 "him guys!"
 msgstr ""
+"Haha! Trpaslíci sa rozhodli zmeniť jaskyňu za jazero. Stavím sa, že ty si "
+"ten, Alher, ktorý najal tých amatérov aby nás pobili. Myslím, že nemáš dosť "
+"sily na to, aby si nás zastavil... dorazme ich, mládenci!"
 
 #. [message]: description=Eag
 #: Trolls/scenarios/02_The_Chase.cfg:185
 msgid "Nagas! Good to see you again. We will help you with the dwarves."
-msgstr ""
+msgstr "Nagy! Rád Vás znovu vidím. Pomôžete nám proti trpaslíkom?"
 
 #. [message]: type=T Naga Fighter
 #: Trolls/scenarios/02_The_Chase.cfg:189
 msgid "Trolls? Great to see you."
-msgstr ""
+msgstr "Trolovia? Radi Vás vidíme."
 
 #. [message]: description=Ug The Strong
 #: Trolls/scenarios/02_The_Chase.cfg:202
@@ -298,74 +321,75 @@ msgid ""
 "The entrance is here. I think we need to activate those runes in two rooms "
 "to open the gate."
 msgstr ""
+"Tu je vchod. Mali by sme aktivovať tie runy, aby sme otvorili tú bránu."
 
 #. [message]: description=Äg Äg
 #: Trolls/scenarios/02_The_Chase.cfg:206
 msgid "Yay. Me want seen the outside!"
-msgstr ""
+msgstr "Ja chcieť vidieť von!"
 
 #. [message]: speaker=unit
 #: Trolls/scenarios/02_The_Chase.cfg:236 Trolls/scenarios/02_The_Chase.cfg:246
 #: Trolls/scenarios/02_The_Chase.cfg:285 Trolls/scenarios/02_The_Chase.cfg:295
 msgid "The gates opens now!"
-msgstr ""
+msgstr "Brána sa otvára!"
 
 #. [message]: description=Eag
 #: Trolls/scenarios/02_The_Chase.cfg:250 Trolls/scenarios/02_The_Chase.cfg:299
 msgid "We still have to kill that dwarf. He is too dangerous to be left alive!"
-msgstr ""
+msgstr "Musíme zakilovať toho pajzla. Kto vie, čo by mohol spôsobiť?"
 
 #. [message]: speaker=unit
 #: Trolls/scenarios/02_The_Chase.cfg:315
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: description=Ug The Strong
 #: Trolls/scenarios/02_The_Chase.cfg:319
 msgid "Finally that dwarf died..."
-msgstr ""
+msgstr "Konečne je trpaslík mŕtvy..."
 
 #. [message]: description=Ug The Strong
 #: Trolls/scenarios/02_The_Chase.cfg:336
 msgid "Let's find a way out from this cave... We can't stay here anymore."
-msgstr ""
+msgstr "Poďme nájsť cestu von z týchto jaskýň... už tu nemôžeme ostať."
 
 #. [scenario]: id=03_Old_Friend
 #: Trolls/scenarios/03_Old_Friend.cfg:4
 msgid "Old Friend"
-msgstr ""
+msgstr "Starý priateľ"
 
 #. [side]: type=Orcish Crossbowman, type=Orcish Slurbow, description=Rak
 #. [side]: type=Dark Sorcerer, description=Galin
 #: Trolls/scenarios/03_Old_Friend.cfg:42 Trolls/scenarios/03_Old_Friend.cfg:70
 msgid "teamname^Enemy"
-msgstr ""
+msgstr "Nepriatelia"
 
 #. [side]: type=Orcish Crossbowman, type=Orcish Slurbow, description=Rak
 #: Trolls/scenarios/03_Old_Friend.cfg:60
 msgid "Rak'Guruk"
-msgstr ""
+msgstr "Rak'Guruk"
 
 #. [side]: type=Dark Sorcerer, description=Galin
 #: Trolls/scenarios/03_Old_Friend.cfg:84
 msgid "Galin"
-msgstr ""
+msgstr "Galin"
 
 #. [objective]: condition=win
 #: Trolls/scenarios/03_Old_Friend.cfg:95
 msgid "Defeat enemy leaders"
-msgstr ""
+msgstr "Porazíš nepriateľských veliteľov"
 
 #. [objective]: condition=win
 #: Trolls/scenarios/03_Old_Friend.cfg:99
 msgid "Move Karak out of the cave."
-msgstr ""
+msgstr "Dostaneš Karaka von z jaskýň."
 
 #. [objective]: condition=lose
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:75
 #: Trolls/scenarios/03_Old_Friend.cfg:103
 msgid "Death of Aeg, Ug or Karak"
-msgstr ""
+msgstr "Zomrie Aeg, Ug alebo Karak"
 
 #. [message]: description=Eag
 #: Trolls/scenarios/03_Old_Friend.cfg:165
@@ -374,6 +398,9 @@ msgid ""
 "I don't want to lose any more men. When we are far away from the dwarves, we "
 "have to find a new cave in which to live."
 msgstr ""
+"Neďaleko od nás je táborisko orkov. Navrhujem, aby sme sa pokúsili prekĺznuť "
+"popri nich. Nechcem strácať ďalších bojovníkov. Keď budeme ďaleko od "
+"trpaslíkov, nájdeme si inú jaskyňu, v ktorej budeme žiť."
 
 #. [message]: description=Ug The Strong
 #: Trolls/scenarios/03_Old_Friend.cfg:169
@@ -381,6 +408,8 @@ msgid ""
 "I know one friendly orcish tribe which isn't warlike like other tribes. They "
 "also have a cave near their encampment for trolls."
 msgstr ""
+"Viem o jednom kmeni orkov, ktorý nie je taký bojovný ako ostatné. Taktiež tu "
+"majú neďaleko jaskyňu. "
 
 #. [message]: description=Karak
 #: Trolls/scenarios/03_Old_Friend.cfg:173
@@ -388,11 +417,13 @@ msgid ""
 "~Luckily I found you Eag. Can you help me? An orcish leader has kidnapped us "
 "and throw us into a dark cave which seems to be full of bats..."
 msgstr ""
+"~Našťastie som ťa našiel, Eag. Pomôžeš mi? Ork vojvoda nás tu drží ako myši "
+"v jaskyni plnej netopierov..."
 
 #. [message]: description=Eag
 #: Trolls/scenarios/03_Old_Friend.cfg:177
 msgid "~Karak? Why are you talking in my head?"
-msgstr ""
+msgstr "~Karak? Prečo počujem v hlave tvoj hlas?"
 
 #. [message]: description=Karak
 #: Trolls/scenarios/03_Old_Friend.cfg:181
@@ -400,52 +431,55 @@ msgid ""
 "~It is a shaman thing, you know Please, come to help me and my friends I "
 "will make up this some day"
 msgstr ""
+"~To je vecou šamanov, ovládame to. Teraz prosím príď a pomôž mne a mojim "
+"priateľom. Raz Ti to vrátim."
 
 #. [message]: description=Eag
 #: Trolls/scenarios/03_Old_Friend.cfg:185
 msgid "~We will help you, don't worry."
-msgstr ""
+msgstr "~Pomôžeme, nemusíš sa báť."
 
 #. [message]: description=Eag
 #: Trolls/scenarios/03_Old_Friend.cfg:189
 msgid ""
 "We have to change our plan now... We must attack the orcs. Let me explain..."
 msgstr ""
+"Musíme zmeniť svoje plány. Zaútočíme na orkov. Nechajte ma to vysvetliť..."
 
 #. [message]: speaker=unit
 #: Trolls/scenarios/03_Old_Friend.cfg:200
 msgid "No! No one can defeat me!"
-msgstr ""
+msgstr "Nie! Nikto ma nemôže poraziť!"
 
 #. [message]: description=Galin
 #: Trolls/scenarios/03_Old_Friend.cfg:215
 msgid "Haha, my army is unstoppable!"
-msgstr ""
+msgstr "Haha, moja armáda je nezastaviteľná!"
 
 #. [message]: speaker=unit
 #: Trolls/scenarios/03_Old_Friend.cfg:226
 msgid "Uh, you have won... I died against a good enemy..."
-msgstr ""
+msgstr "Uh, vyhral si... porazil ma skutočne mocný nepriateľ..."
 
 #. [message]: speaker=unit
 #: Trolls/scenarios/03_Old_Friend.cfg:250
 msgid "I finally got out of there."
-msgstr ""
+msgstr "Konečne som sa odtiaľ dostal."
 
 #. [scenario]: id=04_Night_Of_Daggers
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:4
 msgid "Night of Daggers"
-msgstr ""
+msgstr "Noc dýk."
 
 #. [time]: id=dark_night
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:9
 msgid "A Long Dark Night"
-msgstr ""
+msgstr "Dlhá tmavá noc"
 
 #. [side]
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:50
 msgid "teamname^Black Assassins"
-msgstr ""
+msgstr "Čierny zabijaci"
 
 #. [part]
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:57
@@ -455,16 +489,20 @@ msgid ""
 "commander, but they decide to stay the night. The night was cold and darker "
 "than it was normally. At midnight they heard someone screaming."
 msgstr ""
+"Eag a jeho družina šiel do tábora mierumilovného kmeňa. Oznámili mu, že kmeň "
+"má nového vodcu. Eag bol zvedavý na nového veliteľa, no rozhodol sa prečkať "
+"noc. Tá bola tmavá a veľmi chladná, chladnejšia ako obyčajne v tomto kraji. "
+"O polnoci začul každý niekoho výkrik."
 
 #. [objective]: condition=win
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:67
 msgid "Survive 20 turns"
-msgstr ""
+msgstr "Udržíš sa 20 kôl"
 
 #. [objective]: condition=win
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:71
 msgid "Death of all enemies"
-msgstr ""
+msgstr "Porazíš všetkých nepriateľov"
 
 #. [message]: description=Ar'Harak
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:106
@@ -472,6 +510,8 @@ msgid ""
 "Black Assassins are attacking us! Kill them all and in the morning we will "
 "revenge this coward attack!"
 msgstr ""
+"Čierny zabijaci na nás útočia! Zabi ich všetkých a ráno sa pomstíme za ich "
+"zbabelý útok!"
 
 #. [message]: description=Karak
 #: Trolls/scenarios/04_Night_Of_Daggers.cfg:123
@@ -479,39 +519,41 @@ msgid ""
 "Night has finally ended and black assassins can't hide in the darkness "
 "anymore. Victory will be ours!"
 msgstr ""
+"Noc sa konečne skončila a čierny zabijaci sa už nemôžu viac skrývať v tme. "
+"Víťazstvo je naše!"
 
 #. [unit]: id=T Naga Abomination, race=naga
 #: Trolls/units/Abomination.cfg:5
 msgid "Naga Abomination"
-msgstr ""
+msgstr "Mocný hadí bojovník"
 
 #. [unit]: id=T Naga Abomination, race=naga
 #: Trolls/units/Abomination.cfg:24
 msgid "These heavy fighters are elite forces of the nagas."
-msgstr ""
+msgstr "Tieto ťažko ozbrojené jednotky sú elitou svojho národa"
 
 #. [attack]: type=blade
 #: Trolls/units/Depthprowler.cfg:52 Trolls/units/Depthstalker.cfg:52
 #: Trolls/units/Abomination.cfg:29 Trolls/units/Hunter.cfg:42
 #: Trolls/units/Assassin.cfg:30
 msgid "sword"
-msgstr ""
+msgstr "meč"
 
 #. [attack]: type=impact
 #: Trolls/units/Sentinel.cfg:29 Trolls/units/Warden.cfg:28
 #: Trolls/units/Abomination.cfg:38
 msgid "mace"
-msgstr ""
+msgstr "palcát"
 
 #. [attack]: type=pierce
 #: Trolls/units/Abomination.cfg:46
 msgid "spear"
-msgstr ""
+msgstr "kopija"
 
 #. [unit]: id=T Naga Assassin, race=naga
 #: Trolls/units/Assassin.cfg:5
 msgid "Naga Assassin"
-msgstr ""
+msgstr "Hadí zabijak"
 
 #. [unit]: id=T Naga Hunter, race=naga
 #. [unit]: id=T Naga Assassin, race=naga
@@ -522,16 +564,18 @@ msgid ""
 "poisoned arrows. These two foot long shafts, tipped with a potent poison, "
 "have been known to slay many kinds of prey."
 msgstr ""
+"Hadí lovci sú nebezpečné jednotky, pripravené používať svoje luky so šípmi "
+"napustenými jedom. Sú odolné voči jednu, ktorým rýchlo zabijú akúkoľvek obeť."
 
 #. [attack]: type=pierce
 #: Trolls/units/Hunter.cfg:51 Trolls/units/Assassin.cfg:39
 msgid "bow"
-msgstr ""
+msgstr "luk"
 
 #. [unit]: id=Black Assassin, race=orc
 #: Trolls/units/Black_Assassin.cfg:4
 msgid "Black Assassin"
-msgstr ""
+msgstr "Čierny zabijak"
 
 #. [unit]: id=Black Assassin, race=orc
 #: Trolls/units/Black_Assassin.cfg:22
@@ -540,21 +584,24 @@ msgid ""
 "that they will be unseen in darkness and can move faster around. They can "
 "sneak behind and accurately backstab their enemies or throw poison knives."
 msgstr ""
+"Niekoľko orkských zabijakov sa rozhodlo nosiť čierne ľahké oblečenie, s "
+"ktorým môžu nikým nevidení pohybovať sa v temnote. Môžu sa rýchlo pohybovať, "
+"zákerne používať svoju dýku alebo hádzať otrávené vrhacie nože."
 
 #. [attack]: type=blade
 #: Trolls/units/Black_Slayer.cfg:30 Trolls/units/Black_Assassin.cfg:31
 msgid "dagger"
-msgstr ""
+msgstr "dýka"
 
 #. [attack]: type=blade
 #: Trolls/units/Black_Slayer.cfg:43 Trolls/units/Black_Assassin.cfg:44
 msgid "throwing knives"
-msgstr ""
+msgstr "vrhacie nože"
 
 #. [unit]: id=Black Slayer, race=orc
 #: Trolls/units/Black_Slayer.cfg:4
 msgid "Black Slayer"
-msgstr ""
+msgstr "Čierny vrah"
 
 #. [unit]: id=Black Slayer, race=orc
 #: Trolls/units/Black_Slayer.cfg:22
@@ -565,11 +612,13 @@ msgid ""
 "poison, is a vicious tool, and its common use on the battlefield is often "
 "the real cause of orcish supremacy."
 msgstr ""
+"Väčší a silnejší orkovia zabijaci sa nazývajú \"vrahovia\". Vrahovia sú "
+"rýchli, mocní v boji a veľmi zručne využívajú jed."
 
 #. [unit]: id=T Naga Depthprowler, race=naga
 #: Trolls/units/Depthprowler.cfg:5
 msgid "Naga Depthprowler"
-msgstr ""
+msgstr "Hadí potápač"
 
 #. [unit]: id=T Naga Depthprowler, race=naga
 #. [unit]: id=T Naga Depthstalker, race=naga
@@ -581,11 +630,14 @@ msgid ""
 "it is just as deadly. Naga Depthstalkers are especially valued as brood "
 "guardians, where they keep watch over eggs laid in hidden caves."
 msgstr ""
+"Niektorí hadí bojovníci sa zdokonaľujú v potápaní. Či už je to kvôli "
+"zbabelosti alebo šikovnosti, dostávajú tréning, vďaka ktorému môžu bojovať "
+"veľmi účinne aj v hlbinách. Často sa používajú na stráženie vajec."
 
 #. [female]
 #: Trolls/units/Depthprowler.cfg:178
 msgid "Nagini Depthprowler"
-msgstr ""
+msgstr "Hadia potápačka"
 
 #. [female]
 #: Trolls/units/Depthprowler.cfg:181 Trolls/units/Depthstalker.cfg:181
@@ -596,21 +648,24 @@ msgid ""
 "it is just as deadly. Nagani Depthstalkers are especially valued as brood "
 "guardians, where they keep watch over eggs laid in hidden caves."
 msgstr ""
+"Niektoré hadie bojovnice sa zdokonaľujú v potápaní. Či už je to kvôli "
+"zbabelosti alebo šikovnosti, dostávajú tréning, vďaka ktorému môžu bojovať "
+"veľmi účinne aj v hlbinách. Často sa používajú na stráženie vajec."
 
 #. [unit]: id=T Naga Depthstalker, race=naga
 #: Trolls/units/Depthstalker.cfg:5
 msgid "Naga Depthstalker"
-msgstr ""
+msgstr "Hadí Potápač"
 
 #. [female]
 #: Trolls/units/Depthstalker.cfg:178
 msgid "Nagini Depthstalker"
-msgstr ""
+msgstr "Hadia potápačka"
 
 #. [unit]: id=T Dwarvish Miner, race=dwarf
 #: Trolls/units/Dwarvish_Miner.cfg:4
 msgid "Dwarvish Miner"
-msgstr ""
+msgstr "Trpasličí baník"
 
 #. [unit]: id=T Dwarvish Miner, race=dwarf
 #: Trolls/units/Dwarvish_Miner.cfg:17
@@ -619,21 +674,23 @@ msgid ""
 "precious ores out of the ground, but do not ever take part in the crafting "
 "of weapons or artifacts."
 msgstr ""
+"Trpasličí baníci sú hlavnou silou trpasličej spoločnosti. Získavajú kvalitné "
+"rudy z hlbokých baní, no nemiešajú sa do výroby zbraní a artefaktov."
 
 #. [attack]: type=pierce
 #: Trolls/units/Dwarvish_Miner.cfg:22
 msgid "pick"
-msgstr ""
+msgstr "krompáč"
 
 #. [unit]: id=T Naga Hunter, race=naga
 #: Trolls/units/Hunter.cfg:5
 msgid "Naga Hunter"
-msgstr ""
+msgstr "Hadí lovec"
 
 #. [unit]: id=T Old Orcish Shaman, race=orc
 #: Trolls/units/Old_Orc_Shaman.cfg:4
 msgid "Old Orcish Shaman"
-msgstr ""
+msgstr "Starý orkský šaman"
 
 #. [unit]: id=T Old Orcish Shaman, race=orc
 #: Trolls/units/Old_Orc_Shaman.cfg:22
@@ -646,21 +703,25 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"Šamani sú strážcami orkskej mágie. Starší z kmeňov sa stretávajú na "
+"stretnutiach šamanov, kde sa rozhoduje o dôležitých rozhodnutiach pre celé "
+"komunity orkov a utlmujú vzájomne spory. Napriek fyzickej slabosti (na "
+"orkov), šamani sú schopný zosielať mocné kúzla."
 
 #. [attack]: type=impact
 #: Trolls/units/Orc_Shaman.cfg:25 Trolls/units/Old_Orc_Shaman.cfg:27
 msgid "staff"
-msgstr ""
+msgstr "palica"
 
 #. [attack]: type=pierce
 #: Trolls/units/Orc_Shaman.cfg:34 Trolls/units/Old_Orc_Shaman.cfg:36
 msgid "curse"
-msgstr ""
+msgstr "kliatba"
 
 #. [unit]: id=T Orcish Shaman, race=orc
 #: Trolls/units/Orc_Shaman.cfg:4
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Orkský šaman"
 
 #. [unit]: id=T Orcish Shaman, race=orc
 #: Trolls/units/Orc_Shaman.cfg:20
@@ -672,11 +733,15 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Šamani sú strážcami orkskej mágie. Starší z kmeňov sa stretávajú na "
+"stretnutiach šamanov, kde sa rozhoduje o dôležitých rozhodnutiach pre celé "
+"komunity orkov a utlmujú vzájomne spory. Napriek fyzickej slabosti (na "
+"orkov), šamani sú schopný zosielať mocné kúzla."
 
 #. [unit]: id=T Naga Sentinel, race=naga
 #: Trolls/units/Sentinel.cfg:5
 msgid "Naga Sentinel"
-msgstr ""
+msgstr "Hadí strážca"
 
 #. [unit]: id=T Naga Sentinel, race=naga
 #: Trolls/units/Sentinel.cfg:24
@@ -687,11 +752,13 @@ msgid ""
 "great awake of their civilization arrive. These nagas are mostly unknow in "
 "Wesnoth since they can only be found near Naga cities."
 msgstr ""
+"Elitné jednotky hadích bojovníkov. Ich úloha je chrániť spiacich bratov pred "
+"každou hrozbou. Týchto hadích bojovníkov vo väčšine Wesnothu vôbec nepoznajú."
 
 #. [unit]: id=T Troll Shaman, race=troll
 #: Trolls/units/Shaman.cfg:4
 msgid "Troll Shaman"
-msgstr ""
+msgstr "Trol šaman"
 
 #. [unit]: id=T Troll Shaman, race=troll
 #: Trolls/units/Shaman.cfg:25
@@ -700,21 +767,24 @@ msgid ""
 "or tough as other trolls, their true power lies in their fire magic, which "
 "they use to blast enemies with gouts of fire."
 msgstr ""
+"Trolí šamani sú mystickými vodcami trolov. Aj keď nie sú tak silný ako "
+"ostatní trolovia, ich skutočná sila sa skrýva v tajomnej červenej mágii, s "
+"ktorou môžu zničiť zástupy nepriateľov."
 
 #. [attack]: type=impact
 #: Trolls/units/Whelp_Shaman.cfg:26 Trolls/units/Shaman.cfg:32
 msgid "fist"
-msgstr ""
+msgstr "päsť"
 
 #. [attack]: type=fire
 #: Trolls/units/Whelp_Shaman.cfg:35 Trolls/units/Shaman.cfg:42
 msgid "flame blast"
-msgstr ""
+msgstr "Ohnivá strela"
 
 #. [unit]: id=T Naga Warden, race=naga
 #: Trolls/units/Warden.cfg:5
 msgid "Naga Warden"
-msgstr ""
+msgstr "Naga dozorca"
 
 #. [unit]: id=T Naga Warden, race=naga
 #: Trolls/units/Warden.cfg:23
@@ -724,11 +794,14 @@ msgid ""
 "crush their enemies. They mostly guard naga outposts, but occasionally "
 "participate in offensive raids."
 msgstr ""
+"Aj keď sú dozorcovia pomalších, majú silné brnenie, ktoré ich veľmi dobre "
+"chráni. Najčastejšie strážia dôležité miesta, len zriedka sa podieľajú na "
+"útokoch."
 
 #. [unit]: id=Whelp Shaman, race=troll
 #: Trolls/units/Whelp_Shaman.cfg:4
 msgid "Whelp Shaman"
-msgstr ""
+msgstr "Mladý šaman"
 
 #. [unit]: id=Whelp Shaman, race=troll
 #: Trolls/units/Whelp_Shaman.cfg:19
@@ -738,4 +811,4 @@ msgid ""
 "and not yet capable of walking properly, forced instead to shamble about on "
 "all fours, but any difficulty this causes them is more than made up for by "
 "the raw strength of their race."
-msgstr ""
+msgstr "Tieto mláďatá majú zvláštne nadanie pre ohnivé kúzla."
